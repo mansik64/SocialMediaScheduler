@@ -1,3 +1,28 @@
+# Social Media Scheduler App
+
+A React-based web application that allows users to schedule and manage social media posts efficiently.  
+This project is built using **Create React App** and focuses on clean UI, component-based architecture, and local state management.
+
+---
+
+## 🚀 Features
+- Create and schedule social media posts
+- View scheduled posts in a structured format
+- Delete posts when no longer required
+’s
+- Responsive UI
+- Local storage support (data persists on refresh)
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React (Create React App)
+- **Language:** JavaScript
+- **Styling:** CSS
+- **Package Manager:** npm
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
